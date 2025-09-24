@@ -1,5 +1,8 @@
 {
   "dataBase": {
-    
+    "NoxVex-Database": {
+      "databaseName": "NoxVex-Database",
+      "databaseDescription": "ini adalah contoh penambahan database ke salam github"
+    }
   }
 }
