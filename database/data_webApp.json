@@ -1,5 +1,8 @@
 {
-    "dataBase": {
-        
+  "dataBase": {
+    "NoxVex-Database": {
+      "databaseName": "NoxVex-Database",
+      "databaseDescription": ""
     }
+  }
 }
