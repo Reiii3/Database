@@ -7,6 +7,10 @@
     "NoxG-Database": {
       "databaseName": "NoxG-Database",
       "databaseDescription": ""
+    },
+    "Nox-Database": {
+      "databaseName": "Nox-Database",
+      "databaseDescription": ""
     }
   }
 }
