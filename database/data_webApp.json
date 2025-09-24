@@ -7,6 +7,10 @@
     "NoxG": {
       "databaseName": "NoxG",
       "databaseDescription": "ini adalah contoh penambahan database ke salam github"
+    },
+    "Doxxel": {
+      "databaseName": "Doxxel",
+      "databaseDescription": "ini adalah contoh penambahan database ke salam github"
     }
   }
 }
