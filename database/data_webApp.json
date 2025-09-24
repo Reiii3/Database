@@ -3,6 +3,10 @@
     "NoxVex-Database": {
       "databaseName": "NoxVex-Database",
       "databaseDescription": "ini adalah contoh penambahan database ke salam github"
+    },
+    "NoxG": {
+      "databaseName": "NoxG",
+      "databaseDescription": "ini adalah contoh penambahan database ke salam github"
     }
   }
 }
