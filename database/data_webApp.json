@@ -3,6 +3,10 @@
     "NoxVex-Database": {
       "databaseName": "NoxVex-Database",
       "databaseDescription": ""
+    },
+    "NoxG-Database": {
+      "databaseName": "NoxG-Database",
+      "databaseDescription": ""
     }
   }
 }
