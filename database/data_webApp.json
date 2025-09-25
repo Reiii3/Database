@@ -31,6 +31,10 @@
     "exo": {
       "databaseName": "exo",
       "databaseDescription": "ini adalah contoh penambahan database ke salam github"
+    },
+    "Kenx": {
+      "databaseName": "Kenx",
+      "databaseDescription": "ini adalah contoh penambahan database ke salam github"
     }
   }
 }
