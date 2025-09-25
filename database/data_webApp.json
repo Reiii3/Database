@@ -39,6 +39,10 @@
     "Lenx": {
       "databaseName": "Lenx",
       "databaseDescription": "ini adalah contoh penambahan database ke salam github"
+    },
+    "Your": {
+      "databaseName": "Your",
+      "databaseDescription": "ini adalah contoh penambahan database ke salam github"
     }
   }
 }
